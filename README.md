@@ -2,4 +2,4 @@
 Dibuat oleh
 Ade Surya Handika
 13518007 <br>
-dikaa.me/personal-web/
+Preview = http://dikaa.me/personal-web/
